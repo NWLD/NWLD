@@ -2,4 +2,8 @@
 #
 # Telegram https://t.me/NWLD_CN 
 #
-# QQ群 103682866 
+# QQ群 103682866
+#
+# App下载
+# 手机专用
+# 模拟器使用
